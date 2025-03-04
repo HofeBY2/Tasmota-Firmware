@@ -1,4 +1,4 @@
-# Tasmota-Firmware in Deutsch 14.3.0.4
+# Tasmota-Firmware in Deutsch
 Einige meiner compilierten Tasmota Firmware Images in deutsch.
 
 Es sind die Konfigurationsfiles mitgeliefert, damit Sie z.B. an Ihre Sprache und Gegebenheiten anpassen können.
@@ -10,7 +10,7 @@ Alle Varianten enthalten Berry, KNX, MATTER, Timer, Domoticz, GPIOViewer, divers
 Compilierte Varianten:
 1. SCRIPT, SML , globale Variablen und haben kein "RULE" im Namen tasmota(x).bin
 
-2. RULE, haben mindestens "RULE" im Namen RULE-(MATTER-)tasmota(x).bin
+2. RULE, haben mindestens "RULE" im Namen RULE-tasmota(x).bin
 
 Diverse "??script.txt" Beispiele sind mit vorhanden, um den Einstieg zu erleichtern.
 
@@ -20,7 +20,7 @@ Alle Rechte bleiben bei den Rechtinhabern.
 
 ==============================================================
 
-Some of my compiled Tasmota 14.3.0.4 firmware images in German.
+Some of my compiled Tasmota firmware images in German.
 
 The configuration files are included so that you can adapt them to your language and circumstances, for example.
 
@@ -32,7 +32,7 @@ Compiled versions:
 
 SCRIPT, SML, global variables and have no "RULE" in the name tasmota(x).bin
 
-RULE, have at least "RULE" in the name RULE-(MATTER-)tasmota(x).bin
+RULE, have at least "RULE" in the name RULE-tasmota(x).bin
 
 Various "??script.txt" examples are included to make getting started easier.
 
